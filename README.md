@@ -1,2 +1,2 @@
 # gittraining
-gittraining
+gittraining start from Hello!
